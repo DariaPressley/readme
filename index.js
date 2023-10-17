@@ -39,7 +39,17 @@ inquirer
       message: 'What is the License?',
       name: 'license',
       choices: ['MIT', 'Apache', 'Mozilla'],
-    }
+    },
+    {
+      type: 'input',
+      message: 'What is your GitHub username?',
+      name: 'name',
+    },
+    {
+      type: 'input',
+      message: 'What is your e-mail address?',
+      name: 'email',
+    },
   ])
   .then((data) => {
     const text = generateMarkdown(data)
