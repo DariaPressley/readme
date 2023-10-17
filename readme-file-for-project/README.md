@@ -33,4 +33,4 @@ Eric Sayer (UCLA Tutor) for overall guidance with the markdown file.
 
 Please refer to the LICENSE in the repo.
 
-![Alt text](images/Readme.png)
+![Alt text](../images/Readme.png)

@@ -38,6 +38,7 @@ ${data.tests}
 ${data.license}
 
 ## Questions
+Please use the following contact information for any questions.
 
 ${data.name}
 ${data.email}
