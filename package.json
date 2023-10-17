@@ -1,0 +1,22 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "readme_generator project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariaPressley/password-generator.git"
+  },
+  "author": "Daria Pressley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DariaPressley/password-generator/issues"
+  },
+  "homepage": "https://github.com/DariaPressley/password-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
